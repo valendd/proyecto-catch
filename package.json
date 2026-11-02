@@ -1,0 +1,7 @@
+{
+  "name": "pulso-laboral",
+  "version": "1.0.0",
+  "description": "Dashboard de la encuesta laboral Catch con consulta en vivo a Gemini",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
